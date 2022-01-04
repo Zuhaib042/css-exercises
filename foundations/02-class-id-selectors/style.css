@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(255, 138, 157);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+.second {
+    color: blue;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.forth {
+    background-color: rgb(166, 255, 166);
+    font-size: 24px;
+    font-weight: bold;
+}
